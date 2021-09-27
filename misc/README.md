@@ -1,1 +1,3 @@
-2021年 9月21日 火曜日 15時53分11秒 JST
+GitHub/cZone--Arduino--TEMPLATE/misc/README.md
+
+Last update: Sun Sep 26 18:38:20 JST 2021
