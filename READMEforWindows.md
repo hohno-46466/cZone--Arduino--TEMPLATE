@@ -13,7 +13,7 @@ mklink コマンドは PowerShell の管理者権限で実行するのが最善�
 
 同梱の createSymLink4winFS.sh コマンドは上記目的に即した Windows バッチファイルを標準出力に出力するので，POSIX環境で実行してバッチファイルとして保存し，これを管理者権限の PowerShell で実行すれば手軽にシンボリックリンクを再作成できる
 
-# Note in English
+# Notes in English
 
 It seems that symbolic links created in the POSIX environment cannot be followed in the Windows environment.
 
