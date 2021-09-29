@@ -1,4 +1,4 @@
-# README for Windows
+# README for Windows environment
 
 Last update: Wed Sep 29 09:14:15 JST 2021
 
