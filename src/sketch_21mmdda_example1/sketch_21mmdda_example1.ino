@@ -29,7 +29,7 @@
 #include <Arduino.h>
 #include <MsTimer2.h>
 
-#include "config.h"`
+#include "config.h"
 #include "debugLevel.h" // DEBUGMODE, DEBUGLEVEL, and DEBUGLEVEL_MAIN_SKETCH are defined in debugLevel.h
 #include "myself.h"
 #include "myNewClass.h"
