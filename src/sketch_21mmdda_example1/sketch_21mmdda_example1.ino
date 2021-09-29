@@ -27,9 +27,9 @@
 // ---------------------------------------------------------
 
 #include <Arduino.h>
-// #include <MsTimer2.h>
+#include <MsTimer2.h>
 
-#include "config.h"`
+#include "config.h"
 #include "debugLevel.h" // DEBUGMODE, DEBUGLEVEL, and DEBUGLEVEL_MAIN_SKETCH are defined in debugLevel.h
 #include "myself.h"
 #include "myNewClass.h"
@@ -61,8 +61,8 @@ void setup() {
   showOpeningMessage();
   delay(1000);
 
-  // MsTimer2::set(500, tsr);
-  // MsTimer2::start();
+  MsTimer2::set(500, tsr);
+  MsTimer2::start();
 
   attachInterrupt(digitalPinToInterrupt(g_interruptPin), isr, CHANGE/*LOW|CHANGE|RISING|FALLING*/);
 }

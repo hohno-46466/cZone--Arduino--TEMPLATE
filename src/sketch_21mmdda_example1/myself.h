@@ -8,8 +8,8 @@
 
 // ---------------------------------------------------------
 
-#define PNAME   "Arduino/20YY/sketch_20YYMMDDa_PPPP_QQQQ"
-#define PVER    "20YY-MM-DD-A"
+#define PNAME   "Arduino/20YY/sketch_2021mmdda_example1"
+#define PVER    "2021-MM-DD-A"
 #define PMAGIC  "000000"
 #define PMEMO   "(none)"
 
