@@ -1,6 +1,6 @@
 # README for Windows
 
-# Last update: Wed Sep 29 09:14:15 JST 2021
+Last update: Wed Sep 29 09:14:15 JST 2021
 
 POSIX環境で生成したシンボリックリンクは Windows 環境では追えないらしい．
 
