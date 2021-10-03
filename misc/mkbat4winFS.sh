@@ -1,6 +1,8 @@
 #! /bin/sh
 #
-# createSymLink4winFS.sh - Replace an unix symbolic link with windows style symbolic link
+# mkbat4winFS.sh - Replace unix symbolic links in the current directory with windows style symbolic links
+#
+# Last update: Mon Oct  4 06:55:42 JST 2021
 #
 
 if [ "x$1" = "x-h" -o "x$1" = "x--help" ]; then
