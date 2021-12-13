@@ -60,7 +60,7 @@ elif [ "x$1" = "x-d" -o "x$1" = "x/d" ]; then
     OPTION1="-d $@"
 fi
 
-echo "#"
-echo "# Created by $PNAME ($DATETIME)"
-echo "#"
+echo "rem"
+echo "rem Created by $PNAME ($DATETIME)"
+echo "rem"
 ls -l $OPTION1 | egrep -e '->' | awk '{print $9, $11}' | sed 's|/|\\|g' | awk -v "opt=$OPTION2" '{printf "del %s\ncmd.exe /c mklink %s %s %s\n",$1,opt,$1,$2}'
