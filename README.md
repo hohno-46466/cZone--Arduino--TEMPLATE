@@ -35,6 +35,6 @@ A template repository for Arduino based projects fit for 2021 style (public)
 
 Note: url = git@github.com:hohno-46466/cZone--Arduino--TEMPLATE.git
 
-Note: url = https://github.com/hohno-46466/cZone--Arduino--TEMPLATE.git
+Note: url = https://github.com/hohno-46466/cZone--Arduino--TEMPLATE
 
 -EOF-
