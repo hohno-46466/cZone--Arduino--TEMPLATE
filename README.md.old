@@ -2,7 +2,9 @@
 
 A template repository for Arduino based projects fit for 2021 style (public)
 
-    ./cZone--Arduino--TEMPLATE
+     ./cZone--Arduino--TEMPLATE
+     ├──  99.bat
+     ├──  COMMON -> ../cZone--Arduino--COMMON/src/All_Arduinos
      ├──  COMMON_(Read_this_before_you_start)_.txt
      ├──  CreateCOMMON.bat -> misc/QQ.bat
      ├──  README.md
@@ -18,6 +20,7 @@ A template repository for Arduino based projects fit for 2021 style (public)
      └──  src/
          ├──  README.md
          └──  sketch_21mmdda_example1/
+             ├──  99.bat
              ├──  config.h -> ../../COMMON/config.h
              ├──  debugLevel.h -> ../../COMMON/debugLevel.h
              ├──  myNewClass.cpp -> ../../COMMON/myNewClass.cpp
@@ -27,7 +30,7 @@ A template repository for Arduino based projects fit for 2021 style (public)
              ├──  myself.h
              └──  sketch_21mmdda_example1.ino
      
-     4 directories, 19 files (Sat Nov 19 06:25:56 JST 2022)
+     5 directories, 21 files (Tue Dec 20 21:46:24 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/cZone--Arduino--TEMPLATE
